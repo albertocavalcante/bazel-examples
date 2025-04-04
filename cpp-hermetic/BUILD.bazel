@@ -1,0 +1,4 @@
+alias(
+    name = "zig",
+    actual = "@zig_sdk//:zig",
+)

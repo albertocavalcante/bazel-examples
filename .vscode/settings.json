@@ -1,0 +1,6 @@
+{
+    "bazel.lsp.command": "starpls",
+    "files.exclude": {
+        "**/bazel-*/": true,
+    }
+}
