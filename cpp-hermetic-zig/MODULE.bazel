@@ -1,7 +1,7 @@
-"""Example: C++ with Hermetic Toolchain"""
+"""Example: C++ with Hermetic Toolchain using Zig"""
 
 module(
-    name = "cpp-hermetic",
+    name = "cpp-hermetic-zig",
     version = "0.0.1",
 )
 
