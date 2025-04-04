@@ -4,7 +4,7 @@ This repository contains examples demonstrating various features and capabilitie
 
 ## Examples
 
-* [C++ Hermetic Toolchain](./cpp-hermetic/README.md) - Demonstrates cross-platform C++ builds using a hermetic toolchain with Zig
+* [C++ Hermetic Toolchain](./cpp-hermetic) - Demonstrates cross-platform C++ builds using a hermetic toolchain with Zig
 
 ## Inspiration
 
